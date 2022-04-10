@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xf1r8xpaoZ0ci2OBaKY1ZLylM2F/ISrHGXOy480cGTU=",
+  "Source": "DotNetTalks.MinimalApi.API",
+  "BasePath": "_content/DotNetTalks.MinimalApi.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
