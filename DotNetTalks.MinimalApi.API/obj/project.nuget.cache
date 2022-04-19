@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b1vvd1uTixx022pTlbkafuWOl8Tgzjs5qmuwWMtHilFC5GC/TzBoYKOTeCV3jDxQgQj0zl3ulLVa+ZKkC6eS4w==",
+  "dgSpecHash": "KZH1mhV1Emapnd5AZ7/HwVBdGmDzcLZImtQGyqa/UGqxL7pei6YsTqg7Gds3y5lCUsXP00OsiUan48SR+fmvDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Martin\\source\\repos\\DotNetTalks.MinimalApis\\DotNetTalks.MinimalApi.API\\DotNetTalks.MinimalApi.API.csproj",
+  "projectFilePath": "D:\\docs\\Projects\\dotnet-talks-demo\\DotNetTalks.MinimalApi.API\\DotNetTalks.MinimalApi.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Martin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Martin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Martin\\source\\repos\\DotNetTalks.MinimalApis\\DotNetTalks.MinimalApi.API\\DotNetTalks.MinimalApi.API.csproj": {}
+    "D:\\docs\\Projects\\dotnet-talks-demo\\DotNetTalks.MinimalApi.API\\DotNetTalks.MinimalApi.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Martin\\source\\repos\\DotNetTalks.MinimalApis\\DotNetTalks.MinimalApi.API\\DotNetTalks.MinimalApi.API.csproj": {
+    "D:\\docs\\Projects\\dotnet-talks-demo\\DotNetTalks.MinimalApi.API\\DotNetTalks.MinimalApi.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martin\\source\\repos\\DotNetTalks.MinimalApis\\DotNetTalks.MinimalApi.API\\DotNetTalks.MinimalApi.API.csproj",
+        "projectUniqueName": "D:\\docs\\Projects\\dotnet-talks-demo\\DotNetTalks.MinimalApi.API\\DotNetTalks.MinimalApi.API.csproj",
         "projectName": "DotNetTalks.MinimalApi.API",
-        "projectPath": "C:\\Users\\Martin\\source\\repos\\DotNetTalks.MinimalApis\\DotNetTalks.MinimalApi.API\\DotNetTalks.MinimalApi.API.csproj",
+        "projectPath": "D:\\docs\\Projects\\dotnet-talks-demo\\DotNetTalks.MinimalApi.API\\DotNetTalks.MinimalApi.API.csproj",
         "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martin\\source\\repos\\DotNetTalks.MinimalApis\\DotNetTalks.MinimalApi.API\\obj\\",
+        "outputPath": "D:\\docs\\Projects\\dotnet-talks-demo\\DotNetTalks.MinimalApi.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
